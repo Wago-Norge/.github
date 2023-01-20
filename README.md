@@ -1,3 +1,8 @@
 # .github
 
-# TEST
+Husk å gjør 'public'.
+
+Caroline skaffer bilde..
+
+
+
